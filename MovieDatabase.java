@@ -7,8 +7,6 @@ public class MovieDatabase
 {
 	public static void main (String [] args)
 	{
-		System.out.println ("Welcome to your movie database\n");
-		System.out.println ("Test");
 		BST bst = new BST();
 		
 		try 
